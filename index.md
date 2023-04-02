@@ -14,7 +14,7 @@ layout: home_original
 <div class="row">
 <div class="col-md-6" markdown="1">
 
-<img height="500px" class="center-block" src="resources/tables.png">
+<img height="500px" class="center-block" src="resources/round_tables.png">
 
 </div>
 <div class="col-md-6" markdown="1">
