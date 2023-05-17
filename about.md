@@ -8,6 +8,8 @@ layout: home_original
 	</h2>
 </div>
 
+<center><a href="https://wolverine-workshop.github.io/Wolverine2022/">Link to 2022 Edition</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wolverine-workshop.github.io/Wolverine2021/">Link to 2021 Edition</a></center>
+
 <style>
 body {
 text-align: justify}
