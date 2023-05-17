@@ -45,4 +45,6 @@ layout: home_original
 
 **Place:** Co-located with [CAV 2023](http://www.i-cav.org/2023/){:target="_blank"} in Paris, France
 <br />
+**Registration:** [CAV 2023 webpage](https://cav2023.dakini-pco.com/)
+<br />
 **Workshop date:** July 17, 2023
