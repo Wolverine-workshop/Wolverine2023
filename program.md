@@ -16,7 +16,7 @@ layout: home_original
 
 | Type                                                                     | Time        | Activity |
 |:-----------------------------------------------------------------------: | ----------: | -------- |
-| <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> |  9:00-10:00 | keynote (**Alessio Lomuscio) |
+| <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> |  9:00-10:00 | keynote (**Alessio Lomuscio**) |
 | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 10:00-10:30 | invited talk (**Nathanaël Fijalkow**) |
 | <span class="text-nowrap"><i class="fa fa-coffee fa-fw"></i> </span>     | 10:30-11:00 | *break / networking / posters* |
 | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 11:00-11:30 | invited talk (**Nils Jansen**) |
