@@ -11,6 +11,10 @@ layout: home_original
 <!-- 	<span style="color:#b11170"><center><h3>Consider bringing a poster for the poster session!</h3></center></span> -->
 </div>
 
+WOLVERINE 2023 drew a crowd of roughly 30 participants in each session (before and after lunch)! In both sessions, the participants enjoyed excellent talks by our invited speakers on cutting-edge problems in AI and verification. To get a glimpse of the topics, the speakers kindly shared their slides: <a href="resources/Wolverine 1707_230717_072100.pdf">Program Synthesis by Nathanaël Fijalkow</a> and <a href="resources/Wolverine-InvitedTalk-2023.pdf">Trusted Reinforcement Learning by Bettina Könighofer</a>.
+After each session, the participants immersed themselves in round-table discussions hosted by the speakers. WOLVERINE 2023 concluded with a delicious dinner at [Restaurant l'Archestrate](https://restaurant-archestrate-paris.fr/fr){:target="_blank"}.
+We received very positive feedback, both from participants and speakers, and will bring WOLVERINE back next year. Stay tuned!
+
 <div class="row">
 <div class="col-md-6" markdown="1">
 
